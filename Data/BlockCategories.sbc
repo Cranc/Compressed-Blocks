@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CategoryClasses>
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DTP Compressing</DisplayName>
+			<Name>Debauchery Tea Party Compressor</Name>
+			<ItemIds>
+				<!--Light Armor-->
+				<string>CubeBlock/LargeBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipT1</string>
+				<!--Heavy Armor-->
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipT1</string>
+			</ItemIds>
+		</Category>
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DisplayName_Category_LargeBlocks</DisplayName>
+			<Name>LargeBlocks</Name>
+			<ItemIds>
+				<!--Light Armor-->
+				<string>CubeBlock/LargeBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipT1</string>
+				<!--Heavy Armor-->
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipT1</string>
+			</ItemIds>
+		</Category>
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DisplayName_Category_SmallBlocks</DisplayName>
+			<Name>SmallBlocks</Name>
+			<ItemIds>
+				<!--Light Armor-->
+				<string>CubeBlock/SmallBlockArmorBlockT1</string>
+				<string>CubeBlock/SmallBlockArmorSlopeT1</string>
+				<string>CubeBlock/SmallBlockArmorCornerT1</string>
+				<string>CubeBlock/SmallBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/SmallBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/SmallBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/SmallBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/SmallBlockArmorRoundedSlopeT1</string>
+
+				<string>CubeBlock/SmallBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/SmallBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/SmallBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/SmallBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/SmallBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/SmallBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/SmallBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/SmallBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/SmallBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/SmallBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/SmallBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/SmallBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/SmallBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/SmallBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/SmallBlockArmorInvCorner2TipT1</string>
+
+				<!--Heavy Armor-->
+				<string>CubeBlock/SmallHeavyBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorAngledCornerT1</string>
+
+				<string>CubeBlock/SmallHeavyBlockArmorBlockT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorSlopeT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCornerT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCornerInvT1</string>
+			</ItemIds>
+		</Category>
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DisplayName_Category_Production</DisplayName>
+			<Name>Production</Name>
+			<ItemIds>
+			</ItemIds>
+		</Category>
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+			<DisplayName>DisplayName_Category_ArmorBlocks</DisplayName>
+			<Name>Armorblocks</Name>
+			<ItemIds>
+				<!--Light Armor-->
+				<string>CubeBlock/LargeBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeBlockArmorInvCorner2TipT1</string>
+				<!--Heavy Armor-->
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundedCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorAngledCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorBlockT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlopeT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/LargeHeavyBlockArmorInvCorner2TipT1</string>
+			</ItemIds>       
+		</Category>
+	</CategoryClasses>
+</Definitions>

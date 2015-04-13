@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BlueprintClasses>
+		<Class>
+			<Id>
+				<TypeId>BlueprintClassDefinition</TypeId>
+				<SubtypeId>T1LargeBlocks</SubtypeId>
+			</Id>
+			<DisplayName>Tier 1 Large Blocks</DisplayName>
+			<Icon>Textures\GUI\Icons\Buttons\large_block.dds</Icon>
+			<HighlightIcon>Textures\GUI\Icons\Buttons\large_block_highlight.dds</HighlightIcon>
+			<InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+			<OutputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</OutputConstraintIcon>
+		</Class>
+		<Class>
+			<Id>
+				<TypeId>BlueprintClassDefinition</TypeId>
+				<SubtypeId>T1SmallBlocks</SubtypeId>
+			</Id>
+			<DisplayName>Tier 1 Small Blocks</DisplayName>
+			<Icon>Textures\GUI\Icons\Buttons\small_block.dds</Icon>
+			<HighlightIcon>Textures\GUI\Icons\Buttons\small_block_highlight.dds</HighlightIcon>
+			<InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+			<OutputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</OutputConstraintIcon>
+		</Class>
+	</BlueprintClasses>
+	<BlueprintClassEntries>
+		<Entry Class="T1Components" BlueprintSubtypeId="MySteelPlateT1" />
+		<!--Light Armor-->
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorBlockT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCornerInvT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorRoundedSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorRoundedCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorAngledSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorAngledCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorRoundSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorRoundCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorRoundCornerInvT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorSlope2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorSlope2TipSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCorner2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCorner2TipSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorInvCorner2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorInvCorner2TipSmoothT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorSlope2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorSlope2TipT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCorner2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorCorner2TipT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorInvCorner2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeBlockArmorInvCorner2TipT1" />
+		<!--Heavy Armor-->
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorRoundedSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorRoundedCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorAngledSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorAngledCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorRoundSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorRoundCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorRoundCornerInvT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorBlockT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorSlopeT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCornerT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCornerInvT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorSlope2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorSlope2TipSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCorner2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCorner2TipSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorInvCorner2BaseSmoothT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorInvCorner2TipSmoothT1" />
+
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorSlope2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorSlope2TipT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCorner2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorCorner2TipT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorInvCorner2BaseT1" />
+		<Entry Class="T1LargeBlocks" BlueprintSubtypeId="CubeBlock/LargeHeavyBlockArmorInvCorner2TipT1" />
+
+		<!--Small Blocks-->
+		<!--Light Armor-->
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorBlockT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCornerInvT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorAngledCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorAngledSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorRoundedCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorRoundedSlopeT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorRoundSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorRoundCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorRoundCornerInvT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorSlope2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorSlope2TipSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCorner2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCorner2TipSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorInvCorner2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorInvCorner2TipSmoothT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorSlope2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorSlope2TipT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCorner2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorCorner2TipT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorInvCorner2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallBlockArmorInvCorner2TipT1" />
+		
+		<!--Heavy Armor-->
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorBlockT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCornerInvT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundedSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundedCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorAngledSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorAngledCornerT1" />
+	</BlueprintClassEntries>
+</Definitions>

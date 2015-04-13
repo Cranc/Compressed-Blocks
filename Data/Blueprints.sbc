@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Blueprints>
+		<!-- My Components T1-->
+		<Blueprint>
+			<Id>
+				<TypeId>BlueprintDefinition</TypeId>
+				<SubtypeId>MySteelPlateT1</SubtypeId>
+			</Id>
+			<DisplayName>T1 Steel Plate</DisplayName>
+			<Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+			<Prerequisites>
+				<Item Amount="3" TypeId="Ingot" SubtypeId="CompressedIronT1" />
+			</Prerequisites>
+			<Result Amount="1" TypeId="Component" SubtypeId="SteelPlateT1" />
+			<BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		</Blueprint>
+	</Blueprints>
+</Definitions>
