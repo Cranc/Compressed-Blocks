@@ -121,5 +121,23 @@
 		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundedCornerT1" />
 		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorAngledSlopeT1" />
 		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorAngledCornerT1" />
+		<!--+-->
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundSlopeT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundCornerT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorRoundCornerInvT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorSlope2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorSlope2TipSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCorner2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCorner2TipSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorInvCorner2BaseSmoothT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorInvCorner2TipSmoothT1" />
+		
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorSlope2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorSlope2TipT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCorner2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorCorner2TipT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorInvCorner2BaseT1" />
+		<Entry Class="T1SmallBlocks" BlueprintSubtypeId="CubeBlock/SmallHeavyBlockArmorInvCorner2TipT1" />
 	</BlueprintClassEntries>
 </Definitions>

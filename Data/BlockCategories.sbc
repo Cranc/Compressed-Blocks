@@ -176,6 +176,24 @@
 				<string>CubeBlock/SmallHeavyBlockArmorSlopeT1</string>
 				<string>CubeBlock/SmallHeavyBlockArmorCornerT1</string>
 				<string>CubeBlock/SmallHeavyBlockArmorCornerInvT1</string>
+
+				<string>CubeBlock/SmallHeavyBlockArmorRoundSlopeT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorRoundCornerT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorRoundCornerInvT1</string>
+
+				<string>CubeBlock/SmallHeavyBlockArmorSlope2BaseSmoothT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorSlope2TipSmoothT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCorner2BaseSmoothT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCorner2TipSmoothT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorInvCorner2BaseSmoothT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorInvCorner2TipSmoothT1</string>
+
+				<string>CubeBlock/SmallHeavyBlockArmorSlope2BaseT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorSlope2TipT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCorner2BaseT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorCorner2TipT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorInvCorner2BaseT1</string>
+				<string>CubeBlock/SmallHeavyBlockArmorInvCorner2TipT1</string>
 			</ItemIds>
 		</Category>
 		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
